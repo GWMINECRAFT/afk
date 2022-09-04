@@ -1,0 +1,9 @@
+{
+	"ip":"GWMinecraftBrother.aternos.me",
+	"port": 33864,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ((villlain)) ((villlain))",
+	"login-cmd":"/login (villlain)"
+}
